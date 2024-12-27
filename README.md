@@ -10,6 +10,8 @@
 
 -----
 
+**Project :** Dashboard Design For A Analytic Platform
+
 ### Project Description:  
 
 This design showcases a **dashboard interface** for a web-based analytics and management platform, tailored for tracking business performance metrics. The design emphasizes clarity, usability, and functionality to help users efficiently monitor and manage data. Here's an overview of the components:  
