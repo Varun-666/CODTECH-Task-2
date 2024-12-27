@@ -48,4 +48,4 @@ Designed for business owners, sales managers, and marketing professionals who re
 - **Minimalist Layout:** Focuses on reducing clutter while ensuring all essential features are easily accessible.  
 - **Responsive Navigation:** Ensures smooth interaction for both desktop and mobile users.  
 
-![image](https://github.com/user-attachments/assets/1eb05aba-4d3b-45d1-b3cb-32c8fb9bf9fb)
+![image](https://github.com/user-attachments/assets/b2542596-60b2-4db4-b5d0-41de7641d5ab)
